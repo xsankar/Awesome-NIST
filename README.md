@@ -19,7 +19,13 @@
 > >
 | Paper/Repository | Description | 
 | :- | :- |
-|  |  |
+| [AI RISK MANAGEMENT FRAMEWORK](https://www.nist.gov/itl/ai-risk-management-framework) | Top Page |
+| [Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | |
+| [NIST AI RMF Playbook](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook) |  |
+| [AI RMF 1.0 Explainer Video](https://www.nist.gov/video/introduction-nist-ai-risk-management-framework-ai-rmf-10-explainer-video) | |
+| [AI RMF 1.0 Crosswalk](https://www.nist.gov/itl/ai-risk-management-framework/crosswalks-nist-artificial-intelligence-risk-management-framework) | |
+| [AI RMF Perspectives](https://www.nist.gov/itl/ai-risk-management-framework/perspectives-about-nist-artificial-intelligence-risk-management) | |
+| [AI RMF Development](https://www.nist.gov/itl/ai-risk-management-framework/ai-rmf-development)| Timelines, comments to workshops et al|
 ***
 ## RMF Best Practices
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
