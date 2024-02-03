@@ -11,7 +11,7 @@
 ***
 >
 | [NIST RMF](#rmf) | [RMF Best Practices](#rmf-best-practices) | [Generative AI Best Practices](#generative-ai-best-practices) | [AI Red Teaming](#ai-red-teaming) |
-| :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: |
 ---
 ## RMF
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
