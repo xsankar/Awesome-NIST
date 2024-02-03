@@ -11,7 +11,7 @@
 ***
 >
 | [NIST RMF](#rmf) | [RMF Best Practices](#rmf-best-practices) | [NIST AI](#ai) | [AI Best Practices](#ai-best-practices) | [AI Red Teaming](#ai-red-teaming) |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: |
 ---
 ## RMF
 > NIST RMF Related stuff
@@ -42,5 +42,5 @@
 | |  |
 ***
 ## AI Red Teaming
-> I have the [AI Red Teaming Repository[(https://github.com/xsankar/AI-Red-Teaming) to capture this domain
+> I have the [AI Red Teaming Repository](https://github.com/xsankar/AI-Red-Teaming) to capture this domain
 ---
