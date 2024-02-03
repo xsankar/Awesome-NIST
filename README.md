@@ -16,7 +16,9 @@
 ## USAISIC
 > New initiative. Should be very interesting. More to come ...
 > The AI Safety Institute Consortium will help develop tools to measure and improve AI safety and trustworthiness
-> 
+>
+| Paper/Repository | Description | 
+| :- | :- |
 | [U.S. ARTIFICIAL INTELLIGENCE SAFETY INSTITUTE](https://www.nist.gov/artificial-intelligence/artificial-intelligence-safety-institute) |  |
 | [AISIC Call for participation](https://www.nist.gov/news-events/news/2023/11/nist-seeks-collaborators-consortium-supporting-artificial-intelligence) | |
 | | |
@@ -24,7 +26,7 @@
 ## RMF
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > NIST RMF Related stuff
-> >
+> 
 | Paper/Repository | Description | 
 | :- | :- |
 | [AI RISK MANAGEMENT FRAMEWORK](https://www.nist.gov/itl/ai-risk-management-framework) | Top Page |
