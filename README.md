@@ -37,7 +37,7 @@
 | [AI RMF Perspectives](https://www.nist.gov/itl/ai-risk-management-framework/perspectives-about-nist-artificial-intelligence-risk-management) | |
 | [AI RMF Development](https://www.nist.gov/itl/ai-risk-management-framework/ai-rmf-development)| Timelines, comments to workshops et al|
 | Public Working Groups | |
-| [NIST AI Public Working Groups](https://airc.nist.gov/generative_ai_wg) | AFAIK, we are waiting for the output from these groups. <br> There were 4 wgs viz. Governance, Content Provenance, Pre-deployment Testing & Incident Disclosure|
+| [NIST AI Public Working Groups](https://airc.nist.gov/generative_ai_wg) | AFAIK, we are waiting for the output from these groups. <br> There were 4 wgs viz. Governance, Content Provenance, Pre-deployment Testing & Incident Disclosure <br> I participated (kibitz might be more apt) in the Content Provenance, Pre-deployment Testing (a.k.a. AI Red Teaming) wgs. Lots of interesting discussions and excellent links ! |
 | | |
 ***
 ## RMF Best Practices
