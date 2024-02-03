@@ -27,7 +27,7 @@
 > 
 | Paper/Repository | Description | 
 | :- | :- |
-| [IBM’s Approach to Implementing the NIST AI RMF](https://www.ibm.com/policy/ibms-approach-to-implementing-the-nist-ai-rmf/) |  |
+| [IBM’s Approach to Implementing the NIST AI RMF](https://www.ibm.com/policy/ibms-approach-to-implementing-the-nist-ai-rmf/) | IBM used a three-phase approach to analyzing the framework to confirm the alignment of IBM’s own internal risk management standards, policies, and practice guidance with the framework. |
 ***
 ## AI
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
