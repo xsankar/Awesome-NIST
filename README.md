@@ -10,8 +10,16 @@
 > 
 ***
 >
-| [NIST RMF](#rmf) | [RMF Best Practices](#rmf-best-practices) | [Generative AI Best Practices](#generative-ai-best-practices) | [AI Red Teaming](#ai-red-teaming) |
-| :-: | :-: | :-: | :-: |
+| [NIST USAISI](#usaisi) | [NIST RMF](#rmf) | [RMF Best Practices](#rmf-best-practices) | [Generative AI Best Practices](#generative-ai-best-practices) | [AI Red Teaming](#ai-red-teaming) |
+| :-: | :-: | :-: | :-: | :-: |
+---
+## USAISIC
+> New initiative. Should be very interesting. More to come ...
+> The AI Safety Institute Consortium will help develop tools to measure and improve AI safety and trustworthiness
+> 
+| [U.S. ARTIFICIAL INTELLIGENCE SAFETY INSTITUTE](https://www.nist.gov/artificial-intelligence/artificial-intelligence-safety-institute) |  |
+| [AISIC Call for participation](https://www.nist.gov/news-events/news/2023/11/nist-seeks-collaborators-consortium-supporting-artificial-intelligence) | |
+| | |
 ---
 ## RMF
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
@@ -26,6 +34,9 @@
 | [AI RMF 1.0 Crosswalk](https://www.nist.gov/itl/ai-risk-management-framework/crosswalks-nist-artificial-intelligence-risk-management-framework) | |
 | [AI RMF Perspectives](https://www.nist.gov/itl/ai-risk-management-framework/perspectives-about-nist-artificial-intelligence-risk-management) | |
 | [AI RMF Development](https://www.nist.gov/itl/ai-risk-management-framework/ai-rmf-development)| Timelines, comments to workshops et al|
+| Public Working Groups | |
+| [NIST AI Public Working Groups](https://airc.nist.gov/generative_ai_wg) | AFAIK, we are waiting for the output from these groups <br> there were 4 wgs viz. Governance, Content Provenance, Pre-deployment Testing & Incident Disclosure|
+| | |
 ***
 ## RMF Best Practices
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
