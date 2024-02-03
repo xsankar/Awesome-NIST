@@ -30,6 +30,9 @@
 > 
 | Paper/Repository | Description | 
 | :- | :- |
+| Taxonomy | |
+| [NIST Trustworthy and Responsible AI NIST AI 100-2e2023](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) | Very important document on "Adversarial Machine Learning A Taxonomy and Terminology of Attacks and Mitigations" <br> Without understanding the taxonomy, the rest of the docs might not make sense |
+| RMF Docs | |
 | [AI RISK MANAGEMENT FRAMEWORK](https://www.nist.gov/itl/ai-risk-management-framework) | Top Page |
 | [Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | |
 | [NIST AI RMF Playbook](https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook) |  |
