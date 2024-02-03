@@ -10,7 +10,7 @@
 > 
 ***
 >
-| [NIST RMF](#rmf) | [RMF Best Practices](#rmf-best-practices) | [NIST AI](#ai) | [AI Best Practices](#ai-best-practices) | [AI Red Teaming](#ai-red-teaming) |
+| [NIST RMF](#rmf) | [RMF Best Practices](#rmf-best-practices) | [Generative AI Best Practices](#generative-ai-best-practices) | [AI Red Teaming](#ai-red-teaming) |
 | :-: | :-: | :-: | :-: | :-: |
 ---
 ## RMF
@@ -35,17 +35,9 @@
 | :- | :- |
 | [IBM’s Approach to Implementing the NIST AI RMF](https://www.ibm.com/policy/ibms-approach-to-implementing-the-nist-ai-rmf/) | IBM used a three-phase approach to analyzing the framework to confirm the alignment of IBM’s own internal risk management standards, policies, and practice guidance with the framework. |
 ***
-## AI
+## Generative AI Best Practices
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> NIST AI Related stuff
-> >
-| Paper/Repository | Description | 
-| :- | :- |
-|  |  |
-***
-## AI Best Practices
-[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> NIST AI Best Practices from other sources
+> Generative AI specific Best Practices from other sources
 > 
 | Paper/Repository | Description | 
 | :- | :- |
